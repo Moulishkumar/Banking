@@ -18,7 +18,7 @@ The images below provide a visual preview of each page.
 
 ### 🏠 1. Home Page  
 
-![Home Page Preview](/HOME_PAGE.jpeg)
+![Home Page Preview](/Landing_Page.png)
 
 The **Home Page** acts as a central navigation hub, allowing users to move between:
 - Branch Analysis  
@@ -30,7 +30,7 @@ The **Home Page** acts as a central navigation hub, allowing users to move betwe
 
 ### 🏦 2. Branch Analysis Page  
 
-![Branch Analysis Preview](/BRANCH_ANALYSIS.png)
+![Branch Analysis Preview](/Branch_Analysis.png)
 
 The **Branch Analysis Page** evaluates banking performance across regions, cities, and branches.
 
@@ -46,7 +46,7 @@ The **Branch Analysis Page** evaluates banking performance across regions, citie
 
 ### 📦 3. Product Analysis Page  
 
-![Product Analysis Preview](/PRODUCT_ANALYSIS.png)
+![Product Analysis Preview](/Product_Analysis.png)
 
 The **Product Analysis Page** focuses on product performance and customer adoption trends.
 
@@ -63,7 +63,7 @@ This page helps identify **top-performing products** and usage patterns.
 
 ### 🛡️ 4. Insurance Analysis Page  
 
-![Insurance Analysis Preview](/INSURANCE_ANALYSIS%202.png)
+![Insurance Analysis Preview](/Insurance_Analysis.png)
 
 The **Insurance Analysis Page** evaluates insurance portfolio performance and claim behavior.
 
@@ -80,7 +80,7 @@ The **Insurance Analysis Page** evaluates insurance portfolio performance and cl
 
 ### ℹ️ 5. Information Page  
 
-![Info Page Preview](/INFO_PAGE.png)
+![Info Page Preview](/Tool_Tip.png)
 
 The **Information Page** provides documentation on:
 - Data sources used  
@@ -92,7 +92,7 @@ The **Information Page** provides documentation on:
 
 ### 🏦 6. Drill Through page   
 
-![Drill Through Preview](/DRILL_THROUGH.png)
+![Drill Through Preview](/Drill_Through.png)
 
 The **Drill Through page** evaluates banking performance across regions, cities, and branches.
 
