@@ -99,9 +99,9 @@ The **Drill Through page** evaluates banking performance across regions, cities,
 **Key Insights Include:**
 - Total Deposits, Withdrawals 
 - High-risk Claim Exposure   
-- Total Premiums & Total Claim Amount  on  
+- Total Premiums & Total Claim Amount  
 - Claim Ratio
-- Gender, Rank of HiHg Risk, CustomerId, Customer name
+- Gender, CustomerId, Customer name
 
 ---
 
