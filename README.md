@@ -90,11 +90,11 @@ The **Information Page** provides documentation on:
 
 ---
 
-### 🏦 6. Drill Through page   
+### 🏦 6. High Risk claim exposure page   
 
 ![Drill Through Preview](/Drill_Through.png)
 
-The **Drill Through page** evaluates banking performance across regions, cities, and branches.
+The **High Risk claim exposure page** evaluates banking performance across regions, cities, and branches, which is achieved by using Drill through.
 
 **Key Insights Include:**
 - Total Deposits, Withdrawals 
@@ -102,6 +102,17 @@ The **Drill Through page** evaluates banking performance across regions, cities,
 - Total Premiums & Total Claim Amount  
 - Claim Ratio
 - Gender, CustomerId, Customer name
+
+---
+
+### 🏠 7. Claims overview Page  
+
+![Tool Tip Preview](/Tool_Tip.png)
+
+The **Claims overview Page** provides information on Total Premium & Total Claims by Customer across periods. This is achieved by using tooltip on customer claim overview table. 
+- Total Premium 
+- Total Sales  
+- Year  
 
 ---
 
