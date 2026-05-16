@@ -80,7 +80,7 @@ The **Insurance Analysis Page** evaluates insurance portfolio performance and cl
 
 ### ℹ️ 5. Information Page  
 
-![Info Page Preview](/Tool_Tip.png)
+![Info Page Preview](/Info.png)
 
 The **Information Page** provides documentation on:
 - Data sources used  
